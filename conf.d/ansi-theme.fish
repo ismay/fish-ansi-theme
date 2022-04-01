@@ -1,4 +1,3 @@
-# Set fish colors to ansi colors
 set fish_color_autosuggestion brblack
 set fish_color_cancel --reverse
 set fish_color_command brgreen
